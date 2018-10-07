@@ -1,5 +1,5 @@
 
-![git hub ](https://github.com/thisismrsanjay/bootstrap/blob/master/restaurant-scrapper/Capture.PNG)
+![git hub ](https://github.com/thisismrsanjay/restaurant-scrapper/blob/master/Capture.PNG)
 
 *   What to do when website does't have jquery?
 *   Async Await Promises .
